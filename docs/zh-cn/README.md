@@ -6,7 +6,7 @@ authors:
 lastUpdated: 2026-09-28
 ---
 
-根据学习目标和期望的深入程度选择研讨会。**入门体验**提供 GitHub Copilot 引导式介绍，**真实场景开发**则使用完整应用程序和团队待办事项，练习面向生产环境的工作流。
+根据学习目标和希望探索的深度选择研讨会。**入门体验**提供 GitHub Copilot 引导式介绍，**真实场景开发**则使用完整应用程序和团队待办事项，练习面向生产环境的工作流。
 
 ## 入门体验
 
@@ -18,7 +18,7 @@ lastUpdated: 2026-09-28
 
 ### [GitHub Copilot CLI 入门][first-steps-cli]
 
-在终端中构建同一个 Space Quiz，审查差异，在工作树中并行运行会话，先规划再编辑，并在不离开 shell 的情况下创建、合并和委派拉取请求。
+在终端中构建同一个 Space Quiz，在 Git 写入更改前审查差异，在工作树中并行运行会话，先规划再编辑，并在不离开 shell 的情况下创建、合并和委派拉取请求。
 
 ### [Visual Studio Code 入门][first-steps-vscode]
 
@@ -40,4 +40,4 @@ lastUpdated: 2026-09-28
 [first-steps-app]: first-steps/copilot-app/
 [first-steps-cli]: first-steps/copilot-cli/
 [first-steps-vscode]: first-steps/vscode/
-[real-world-development]: ../real-world-development/
+[real-world-development]: real-world-development/

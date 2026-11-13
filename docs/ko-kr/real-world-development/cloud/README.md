@@ -29,7 +29,7 @@ lastUpdated: 2026-06-30
 - [ ] 계정 또는 조직에서 GitHub Copilot cloud agent가 활성화되어 있어야 합니다.
 
 > [!TIP]
-> 유료 플랜이 없습니까? 인증된 학생은 [GitHub Education][callout-student-plan-education]을 통해 GitHub Copilot을 무료로 사용할 수 있습니다. **Copilot Student** 플랜에는 이 워크숍에서 사용하는 agent, MCP, 코드 검토, Copilot CLI 기능이 포함되어 있으므로 모든 실습 과정을 완료할 수 있습니다.
+> 유료 플랜이 없습니까? 인증된 학생은 [GitHub Education][callout-student-plan-education]을 통해 GitHub Copilot을 무료로 사용할 수 있습니다. **Copilot Student** 플랜에는 이 워크숍에서 사용하는 에이전트, MCP, 코드 검토, Copilot CLI 기능이 포함되어 있으므로 모든 실습 과정을 완료할 수 있습니다.
 
 [callout-student-plan-education]: https://github.com/education/students
 

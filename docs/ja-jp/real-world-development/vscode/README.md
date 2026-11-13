@@ -6,9 +6,9 @@ authors:
 lastUpdated: 2026-06-30
 ---
 
-VS Code の **[GitHub Copilot Chat](https://code.visualstudio.com/docs/copilot/chat/copilot-chat)** を使うと、普段のコードエディターで GitHub Copilot を利用できます。Visual Studio Code (および GitHub Codespaces) で、Copilot Chat のエージェントモードを操作し、MCP を通じて外部ツールを接続し、カスタムエージェントを活用します。すべて IDE を離れずに進められ、Copilot はファイル、ターミナル、問題の全体を把握できます。
+VS Code の **[GitHub Copilot Chat](https://code.visualstudio.com/docs/copilot/chat/copilot-chat)** を使うと、普段のコードエディターで GitHub Copilot を利用できます。Visual Studio Code (および GitHub Codespaces) で、Copilot Chat のエージェントモードを操作し、Model Context Protocol (MCP) を通じて外部ツールを接続し、カスタムエージェントを活用します。すべて統合開発環境 (IDE) を離れずに進められ、Copilot はファイル、ターミナル、問題の全体を把握できます。
 
-まずカスタム指示を追加し、Copilot がその指示に従う様子を確認します。次に、エージェントモードを使って UI、データ層、テストにまたがるフィルター機能を構築します。その後、Playwright MCP サーバーを接続し、プルリクエストを作成する前に Copilot にブラウザーを操作させて機能をテストします。最後に、アクセシビリティ作業用のカスタムエージェントをレビューして使い、Copilot の変更を監視し、方向付けながら反復して改善します。すべてエディターを離れずに進められます。
+まずカスタム指示を追加し、Copilot がその指示に従う様子を確認します。次に、エージェントモードを使ってユーザーインターフェイス (UI)、データ層、テストにまたがるフィルター機能を構築します。その後、Playwright MCP サーバーを接続し、プルリクエストを作成する前に Copilot にブラウザーを操作させて機能をテストします。最後に、アクセシビリティ作業用のカスタムエージェントをレビューして使い、Copilot の変更を監視し、方向付けながら反復して改善します。すべてエディターを離れずに進められます。
 
 ## 演習
 
@@ -21,7 +21,7 @@ VS Code の **[GitHub Copilot Chat](https://code.visualstudio.com/docs/copilot/c
 | [4. カスタムエージェント][ex4] | 専門エージェント | カスタムエージェントをレビューして使います |
 | [5. エージェントの管理][ex5] | 監視 | エージェントのセッションを監視し、方向付けします |
 | [6. 反復して改善する][ex6] | レビュー | Copilot の作業をローカルでレビューし、次のステップを選びます |
-| [省略可能: Foundry を組み込む][foundry-toolkit] | AI エージェント | VS Code と Foundry Toolkit を使う 3 つのモジュールで、モデルを準備し、エージェントをデプロイしてサイトに接続します |
+| [省略可能: Foundry を組み込む][foundry-toolkit] | 人工知能 (AI) エージェント | VS Code と Foundry Toolkit を使う 3 つのモジュールで、モデルを準備し、エージェントをデプロイしてサイトに接続します |
 
 ## 前提条件
 
